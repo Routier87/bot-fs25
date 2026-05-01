@@ -1,3 +1,7 @@
 {
-  "token": "TON_TOKEN_ICI"
+  "token": "TON_TOKEN_ICI",
+  "clientId": "ID_BOT",
+  "guildId": "ID_SERVEUR",
+  "ticketCategoryId": "ID_CATEGORIE_TICKETS",
+  "logChannelId": "ID_LOGS"
 }
